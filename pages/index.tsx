@@ -13,7 +13,7 @@ const Home = () => {
           <div className="flex justify-between px-4 mx-auto max-w-screen-xl">
             <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
               <header className="mb-4 lg:mb-6 not-format">
-                <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">感謝你聯繫雙龍體育</h1>
+                <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">網站構建</h1>
                 <p>網站正在構建中</p>
                 <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">何時完工？</h1>
                 <p>將在明年2024年6月前完成</p>
