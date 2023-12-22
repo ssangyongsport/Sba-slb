@@ -9,17 +9,25 @@ const Home = () => {
   return (
     <>
 <Head>
-        <title>雙龍體育</title>
-        <meta name="description" content="雙龍體育網站 - 專業體育賽事！ 提供最新的雙龍體育資訊、TV、運動比賽報導，讓您輕鬆了解雙龍體育。歡迎加入雙龍運動論壇，一起與大家溝通！" />
+        <title>ㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍㄍ構建中</title>
+        <meta name="description" content="構建中" />
       </Head>
 
       <div>
-        <div className="bg-gradient h-screen w-full bg-gradient-to-br from-indigo-50 via-white to-cyan-100" />
-        <Hero />
-        <Sport />
-        <div id="anchor_one" />
-        <Table />
-        <Tabl />
+        <main className="pt-8 pb-16 lg:pt-16 lg:pb-24 bg-white dark:bg-gray-900">
+  <div className="flex justify-between px-4 mx-auto max-w-screen-xl ">
+    <article className="mx-auto w-full max-w-2xl format format-sm sm:format-base lg:format-lg format-blue dark:format-invert">
+        <header className="mb-4 lg:mb-6 not-format">        
+  <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">感謝你聯繫雙龍體育</h1>
+   <p>網站正在構建中</p>
+     <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">何時完工？</h1>
+   <p>將在明年2024 6月前完成</p>
+  <h1 className="mb-4 text-3xl font-extrabold leading-tight text-gray-900 lg:mb-6 lg:text-4xl dark:text-white">如何聯繫？</h1>
+   <p>使用support@ssangyongsports.eu.org</p>
+
+
+感謝🙏你的等待
+</p> 
       </div>
     </>
   );
